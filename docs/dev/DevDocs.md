@@ -2,7 +2,7 @@
 
 ## Environment
 
-For information about configuring your development enviornment see [Environment.md](Environment.md).
+For information about configuring your development environment see [Environment.md](Environment.md).
 
 ## Testing
 
